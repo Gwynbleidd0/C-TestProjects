@@ -1,0 +1,11 @@
+C:\Users\Andrey\Downloads\StudentZip\bin\Debug\ReportMaker.cs
+C:\Users\Andrey\Downloads\StudentZip\bin\Debug\Incapsulation.Failures.exe.config
+C:\Users\Andrey\Downloads\StudentZip\bin\Debug\Incapsulation.Failures.exe
+C:\Users\Andrey\Downloads\StudentZip\bin\Debug\Incapsulation.Failures.pdb
+C:\Users\Andrey\Downloads\StudentZip\bin\Debug\nunit.framework.dll
+C:\Users\Andrey\Downloads\StudentZip\bin\Debug\nunitlite.dll
+C:\Users\Andrey\Downloads\StudentZip\obj\Debug\Incapsulation.Failures.csprojAssemblyReference.cache
+C:\Users\Andrey\Downloads\StudentZip\obj\Debug\Incapsulation.Failures.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Downloads\StudentZip\obj\Debug\Incapsulation.Failures.csproj.CopyComplete
+C:\Users\Andrey\Downloads\StudentZip\obj\Debug\Incapsulation.Failures.exe
+C:\Users\Andrey\Downloads\StudentZip\obj\Debug\Incapsulation.Failures.pdb
