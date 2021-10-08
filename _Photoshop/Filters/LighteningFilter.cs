@@ -2,9 +2,9 @@ using System;
 
 namespace MyPhotoshop
 {
-	public class LighteningFilter : IFilter
+	public class LighteningFilter : PixelFilter, IFilter
 	{
-		public ParameterInfo[] GetParameters()
+		public override ParameterInfo[] GetParameters()
 		{
 			return new []
 			{
@@ -18,18 +18,9 @@ namespace MyPhotoshop
 			return "Осветление/затемнение";
 		}
 		
-		public Photo Process(Photo original, double[] parameters)
+		public override Pixel ProcessPixel(Pixel originalPixel, double[] parameters)
 		{
-			var result=new Photo(original.Width, original.Height);
-
-			
-			for (int x=0;x<result.Width; x++)
-				for (int y = 0; y < result.Height; y++)
-				{
-					result[x, y] = original[x, y] * parameters[0]; /*new Pixel(Pixel.Trim(original[x, y].R * parameters[0]), Pixel.Trim(original[x, y].G * parameters[0]), Pixel.Trim(original[x, y].B * parameters[0]));*/
-				}
-					/*					for (int z=0;z<3;z++)*/
-
+			var result = originalPixel * parameters[0];
 			return result;
 		}
 		
