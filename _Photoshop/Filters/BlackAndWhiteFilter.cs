@@ -5,19 +5,16 @@ using System.Text;
 
 namespace MyPhotoshop
 {
-	public class BlackAndWhiteFilter: PixelFilter, IFilter
+	public class BlackAndWhiteFilter: PixelFilter<EmptyParametrs>
 	{
-		public override ParameterInfo[] GetParameters()
-		{
-			return new ParameterInfo[0];
-		}
 
 		public override string ToString()
 		{
 			return "Черно-белый";
 		}
+	
 
-		public override Pixel ProcessPixel(Pixel originalPixel, double[] parameters)
+		public override Pixel ProcessPixel(Pixel originalPixel, EmptyParametrs parameters)
 		{
 			var result = originalPixel;
 			var pixel = (originalPixel.G + originalPixel.B + originalPixel.R) / 3;

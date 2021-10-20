@@ -38,6 +38,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Data\Pixel.cs" />
+    <Compile Include="Filters\EmptyParametrs.cs" />
+    <Compile Include="Filters\IParametrs.cs" />
+    <Compile Include="Filters\LightingParametrs.cs" />
+    <Compile Include="Filters\ParametrizedFilter.cs" />
     <Compile Include="Filters\PixelFilter.cs" />
     <Compile Include="Filters\BlackAndWhiteFilter.cs" />
     <Compile Include="Filters\ParameterInfo.cs" />
@@ -52,6 +56,7 @@
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
+    <None Include=".editorconfig" />
     <None Include="cat.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
