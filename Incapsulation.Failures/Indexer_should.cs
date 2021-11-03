@@ -1,3 +1,4 @@
+using Incapsulation.Weights.Incapsulation.Weights;
 using NUnit.Framework;
 using System;
 

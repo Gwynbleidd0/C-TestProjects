@@ -1,0 +1,10 @@
+C:\Users\Andrey\Documents\learning_test\Generics.Tables\bin\Debug\Generics.Table.exe.config
+C:\Users\Andrey\Documents\learning_test\Generics.Tables\bin\Debug\Generics.Table.exe
+C:\Users\Andrey\Documents\learning_test\Generics.Tables\bin\Debug\Generics.Table.pdb
+C:\Users\Andrey\Documents\learning_test\Generics.Tables\bin\Debug\nunit.framework.dll
+C:\Users\Andrey\Documents\learning_test\Generics.Tables\bin\Debug\nunitlite.dll
+C:\Users\Andrey\Documents\learning_test\Generics.Tables\obj\Debug\Generics.Tables.csproj.AssemblyReference.cache
+C:\Users\Andrey\Documents\learning_test\Generics.Tables\obj\Debug\Generics.Tables.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Documents\learning_test\Generics.Tables\obj\Debug\Generics.Tables.csproj.CopyComplete
+C:\Users\Andrey\Documents\learning_test\Generics.Tables\obj\Debug\Generics.Table.exe
+C:\Users\Andrey\Documents\learning_test\Generics.Tables\obj\Debug\Generics.Table.pdb

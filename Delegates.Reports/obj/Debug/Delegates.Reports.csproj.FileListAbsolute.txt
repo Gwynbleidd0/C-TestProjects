@@ -1,0 +1,20 @@
+C:\Users\Andrey\Downloads\StudentZip (12)\bin\Debug\Delegates.Reports.exe.config
+C:\Users\Andrey\Downloads\StudentZip (12)\bin\Debug\Delegates.Reports.exe
+C:\Users\Andrey\Downloads\StudentZip (12)\bin\Debug\Delegates.Reports.pdb
+C:\Users\Andrey\Downloads\StudentZip (12)\bin\Debug\nunit.framework.dll
+C:\Users\Andrey\Downloads\StudentZip (12)\bin\Debug\nunitlite.dll
+C:\Users\Andrey\Downloads\StudentZip (12)\obj\Debug\Delegates.Reports.csproj.AssemblyReference.cache
+C:\Users\Andrey\Downloads\StudentZip (12)\obj\Debug\Delegates.Reports.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Downloads\StudentZip (12)\obj\Debug\Delegates.Reports.csproj.CopyComplete
+C:\Users\Andrey\Downloads\StudentZip (12)\obj\Debug\Delegates.Reports.exe
+C:\Users\Andrey\Downloads\StudentZip (12)\obj\Debug\Delegates.Reports.pdb
+C:\Users\Andrey\Documents\learning_test\Delegates.Reports\bin\Debug\Delegates.Reports.exe.config
+C:\Users\Andrey\Documents\learning_test\Delegates.Reports\bin\Debug\Delegates.Reports.exe
+C:\Users\Andrey\Documents\learning_test\Delegates.Reports\bin\Debug\Delegates.Reports.pdb
+C:\Users\Andrey\Documents\learning_test\Delegates.Reports\bin\Debug\nunit.framework.dll
+C:\Users\Andrey\Documents\learning_test\Delegates.Reports\bin\Debug\nunitlite.dll
+C:\Users\Andrey\Documents\learning_test\Delegates.Reports\obj\Debug\Delegates.Reports.csproj.AssemblyReference.cache
+C:\Users\Andrey\Documents\learning_test\Delegates.Reports\obj\Debug\Delegates.Reports.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Documents\learning_test\Delegates.Reports\obj\Debug\Delegates.Reports.csproj.CopyComplete
+C:\Users\Andrey\Documents\learning_test\Delegates.Reports\obj\Debug\Delegates.Reports.exe
+C:\Users\Andrey\Documents\learning_test\Delegates.Reports\obj\Debug\Delegates.Reports.pdb

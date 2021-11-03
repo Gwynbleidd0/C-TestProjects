@@ -1,0 +1,2 @@
+C:\Users\Andrey\Documents\learning_test\Incapsulation.Failures\obj\Debug\Incapsulation.Weights.csproj.AssemblyReference.cache
+C:\Users\Andrey\Documents\learning_test\Incapsulation.Failures\obj\Debug\Incapsulation.Weights.csproj.CoreCompileInputs.cache

@@ -9,3 +9,14 @@ C:\Users\Andrey\Downloads\StudentZip\obj\Debug\Incapsulation.Failures.csproj.Cor
 C:\Users\Andrey\Downloads\StudentZip\obj\Debug\Incapsulation.Failures.csproj.CopyComplete
 C:\Users\Andrey\Downloads\StudentZip\obj\Debug\Incapsulation.Failures.exe
 C:\Users\Andrey\Downloads\StudentZip\obj\Debug\Incapsulation.Failures.pdb
+C:\Users\Andrey\Documents\learning_test\Incapsulation.Weights\obj\Debug\Incapsulation.Failures.csproj.AssemblyReference.cache
+C:\Users\Andrey\Documents\learning_test\Incapsulation.Weights\obj\Debug\Incapsulation.Failures.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Documents\learning_test\Incapsulation.Weights\obj\Debug\Incapsulation.Failures.exe
+C:\Users\Andrey\Documents\learning_test\Incapsulation.Weights\obj\Debug\Incapsulation.Failures.pdb
+C:\Users\Andrey\Documents\learning_test\Incapsulation.Weights\bin\Debug\ReportMaker.cs
+C:\Users\Andrey\Documents\learning_test\Incapsulation.Weights\bin\Debug\Incapsulation.Failures.exe.config
+C:\Users\Andrey\Documents\learning_test\Incapsulation.Weights\bin\Debug\Incapsulation.Failures.exe
+C:\Users\Andrey\Documents\learning_test\Incapsulation.Weights\bin\Debug\Incapsulation.Failures.pdb
+C:\Users\Andrey\Documents\learning_test\Incapsulation.Weights\bin\Debug\nunit.framework.dll
+C:\Users\Andrey\Documents\learning_test\Incapsulation.Weights\bin\Debug\nunitlite.dll
+C:\Users\Andrey\Documents\learning_test\Incapsulation.Weights\obj\Debug\Incapsulation.Failures.csproj.CopyComplete

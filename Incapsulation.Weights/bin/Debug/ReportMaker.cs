@@ -32,7 +32,7 @@ namespace Incapsulation.Failures
 
     public class Device
 	{
-
+        public int Id { set; get; }
 	}
     public class ReportMaker
     {
@@ -49,6 +49,8 @@ namespace Incapsulation.Failures
         /// <param name="times"></param>
         /// <param name="devices"></param>
         /// <returns></returns>
+
+
         public static List<string> FindDevicesFailedBeforeDateObsolete(
             int day,
             int month,

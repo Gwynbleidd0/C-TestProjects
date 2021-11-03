@@ -50,10 +50,7 @@ namespace Incapsulation.Failures
         /// <param name="devices"></param>
         /// <returns></returns>
 
-        public static List<string> FindDevicesFailedBeforeDate()
-		{
 
-		}
         public static List<string> FindDevicesFailedBeforeDateObsolete(
             int day,
             int month,
